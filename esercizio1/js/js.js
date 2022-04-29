@@ -1,3 +1,5 @@
+const input = document.querySelector('input');
+
 input.addEventListener("click",switchmode);
 function switchmode(){
   element=document.getElementById("body");
