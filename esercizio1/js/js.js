@@ -1,4 +1,4 @@
-document.addEventListener("click",switchmode);
+input.addEventListener("click",switchmode);
 function switchmode(){
   element=document.getElementById("body");
   element.classList.toggle("bootstrap-dark");
