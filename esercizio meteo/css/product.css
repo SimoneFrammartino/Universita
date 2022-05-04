@@ -3,7 +3,7 @@
 }
 #div-with-bg
 {
-    background: color url("../css/milano.jpg") others;
+    background: color url("../css/milano.jpg") ;
 }
 /*
  * Custom translucent site header
