@@ -1,10 +1,7 @@
 .container {
   max-width: 960px;
 }
-#div-with-bg
-{
-    background: color url(https://images2.alphacoders.com/813/813961.jpg) ;
-}
+
 /*
  * Custom translucent site header
  */
