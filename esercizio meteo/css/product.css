@@ -6,10 +6,11 @@
  * Custom translucent site header
  */
 .bg-img-prs{ 
- border:1px solid black; 
+  
  background-image: url(https://images8.alphacoders.com/703/703492.jpg);
  background-repeat: no-repeat;
  background-position: center center;
+ background-size: cover;
 }
 .site-header {
   background-color: rgba(0, 0, 0, .85);
