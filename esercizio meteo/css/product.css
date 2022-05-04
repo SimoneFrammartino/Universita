@@ -6,8 +6,8 @@
  * Custom translucent site header
  */
 .bg-img-prs{ 
- height: 200px;
- width: 200px;
+ height: auto;
+ width: auto;
  border:1px solid black; 
  background-image: url("../css/milano.jpg");
  background-repeat: no-repeat;
