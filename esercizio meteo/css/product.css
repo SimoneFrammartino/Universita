@@ -5,7 +5,8 @@
 /*
  * Custom translucent site header
  */
-.bg-img-prs{ height: 100px; width: 250px; border: 1px solid black; 
+.bg-img-prs{ 
+ border: 1px solid black; 
  background-image: url(https://www.willmaster.com/library/images/background-sample-250.jpg);
  background-repeat: no-repeat;
  background-position: center center;
