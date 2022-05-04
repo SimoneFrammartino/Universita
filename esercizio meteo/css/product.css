@@ -6,8 +6,7 @@
  * Custom translucent site header
  */
 .bg-img{ 
-  background-image:url(images2.alphacoders.com/813/813961.jpg);
-  height: 100vh;
+  
 }
 .site-header {
   background-color: rgba(0, 0, 0, .85);
