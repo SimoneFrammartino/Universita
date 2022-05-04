@@ -1,8 +1,9 @@
 .container {
   max-width: 960px;
 }
-.milano{
-  background-image: url("../css/milano.jpg");
+#div-with-bg
+{
+    background: color url("../css/milano.jpg") others;
 }
 /*
  * Custom translucent site header
