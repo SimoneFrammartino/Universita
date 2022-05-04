@@ -1,7 +1,12 @@
 .container {
   max-width: 960px;
 }
-
+#milano{
+  background-image: url('css/milano.jpg');
+  background-repeat: no-repeat;
+  background-position: center; 
+  position: relative;
+}
 /*
  * Custom translucent site header
  */
