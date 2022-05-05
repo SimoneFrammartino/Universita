@@ -1,0 +1,1 @@
+const form= document.getElementById("todo.cont") input= document.getElementById("input") todosUL= document.getElementById("todos")
